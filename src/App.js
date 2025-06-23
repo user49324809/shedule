@@ -41,6 +41,12 @@ const doctorsBySpeciality = {
       office: "Каб. 301",
       speciality: "Невролог",
     },
+    {
+      name: "Петров Иван Дмитриевич",
+      time: "08:30 - 14:30",
+      office: "Каб. 301",
+      speciality: "Невролог",
+    },
   ],
   Окулист: [
     {
@@ -49,11 +55,23 @@ const doctorsBySpeciality = {
       office: "Каб. 204",
       speciality: "Окулист",
     },
+    {
+      name: "Сидоров Сидор Иванович",
+      time: "14:30 - 17:40",
+      office: "Каб. 204",
+      speciality: "Окулист",
+    },
   ],
   Психотерапевт: [
     {
       name: "Долгова Оксана Сергеевна",
       time: "09:30 - 12:40",
+      office: "Каб. 204",
+      speciality: "Психотерапевт",
+    },
+    {
+      name: "Петров Олег Сергеевич",
+      time: "12:30 - 15:40",
       office: "Каб. 204",
       speciality: "Психотерапевт",
     },
